@@ -1,1 +1,7 @@
-# Data-Wrangling-Project
+# Wrangling and Analyzing Data
+
+Data wrangling is the process of gathering data, assessing its quality and structure and cleaning it before performing any analysis, visualization or build predictive models.
+
+Did you know, data professionals spend almost 80% of their time wrangling the data, leaving a mere 20% for exploration and modeling? Some people might wonder whether the time and effort spent on data wrangling is worthwhile. You can comprehend by using a straightforward analogy. Before the above-ground portion of a skyscraper is built, the foundation is expensive and time-consuming. However, this sturdy base is crucial for the structure to stand tall and fulfill its function for many years.
+
+In this analysis, I explored all the three stages of data wrangling; **Gathering Data**, **Assessing Data** and **Cleaning Data**. This analysis made use of three datasets. An already sitting data (tweet archive data), a test delimiter (tsv) file (tweet images) which was extracted from the website with the help of the requests library in python. The third dataset, was scrapped from twitter which contains the favorite likes and retweets of dogs from a twitter handle. The two techniques of data assessment were used to evaluate the data: the data quality issue, which deals with the contents of the data, such as missing, inaccurate, inconsistent, duplicates data etc., and the tidiness issue, which has to do with the structure of the data. I employed both programmatic and visual techniques to evaluate the quality and tidiness issues.
